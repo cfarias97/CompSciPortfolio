@@ -1,0 +1,60 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><META http-equiv="Content-Type" content="text/html; charset=utf-8"></head><body>
+
+    
+       
+   	
+  
+  <div style="background-color:peach">
+
+
+
+<div>
+<ul>
+  <li><a href="http://aboutme.html" target="_blank">About me</a></li>
+  <li><a href="http://welcome.html" target="_blank">welcome</a></li>
+  <li><a href="http://html.html" target="_blank">html</a></li>
+  <li><a href="http://hardware.html" target="_blank">hardware</a></li>
+</ul>
+</div>
+
+
+
+<div>
+<ol style="background-color:blue">
+<h1>About me</h1>
+</ol>
+  	<p><font size="5">My name is <strong>Cristian Farias</strong></font></p>
+  	<p>I am a senior student at Summit prep high school in Redwood city. I live in california.</p>
+  		<p><font size="5">I love playing soccer. I am currently in a soccer team. I enjoy playing it, it distracts me from other things. I have been playing for a while now. Another thing that I like is playing video games. When i am bored I play video games with friends. My favorite game is fifa, it is very fun to play against other people online and friends</font></p>
+  		<p><font size="5">A movie that i really like is Ted, I liked this movie because it made me laugh the whole time. I enjoy watching comedy movies. My favorite food is tacos. I like mexican food specially tacos.</font></p>
+		<p><h3>picture</h3>
+	<img src="https://www.redwoodcity.org/phed/econdev/redevelopment/downtown/gallery/NewPix/RWC%20Arch.jpg">
+<img style="max-width:95%;border:6px dashed #545565" src="http://www.businessinsider.com/image/4bc716777f8b9a046d280100/world-cup-soccer.jpg" alt="Milford Sound in New Zealand">
+<a href="http://www.summitps.org/" target="_blank"><img src="http://upload.wikimedia.org/wikipedia/en/thumb/5/58/Summit_prep_logo.jpg/150px-Summit_prep_logo.jpg"></a>
+
+
+  <h2> Favorite Soccer Players</h2>
+  <ol>
+   <li>Cristiano Ronaldo</li>
+   <li>Ronaldinho</li>
+   <li>messi</li>
+   <li>ronaldo</li>
+   
+   <h3>Favorite Clubs</h3>
+   <p>They are the most famous teams</p>
+    <ul>
+    
+    <li>Real Madrid</li>
+    <li>Manchester United</li>
+    <li>Chivas</li>
+    <li>PSG</li>
+      
+    
+      
+    </ul>
+</ol>
+</p></div>
+
+</div>
+</body></html>
